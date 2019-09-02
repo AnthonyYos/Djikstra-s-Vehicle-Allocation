@@ -1,0 +1,4 @@
+﻿  Source.cpp
+g:\visual studio projects\c++\djikstra's emergency vehicle allocation\cs 404 project (updated)\cs 404 project\source.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+g:\visual studio projects\c++\djikstra's emergency vehicle allocation\cs 404 project (updated)\cs 404 project\source.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Djikstra's Vehicle Allocation.vcxproj -> C:\Users\antho\Desktop\Emergency Vehicle Allocation\Djikstra's Vehicle Allocation\Debug\Djikstra's Vehicle Allocation.exe
