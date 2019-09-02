@@ -15,43 +15,43 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Compare.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Edge.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Graph.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Node.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Request.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Vehicle.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Edge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Request.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Edge.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Graph.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Node.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Request.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Vehicle.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Edge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Request.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Compare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

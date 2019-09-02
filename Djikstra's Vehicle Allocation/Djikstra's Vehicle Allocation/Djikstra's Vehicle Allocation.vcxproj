@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{623E1E3B-5B15-4D43-B166-03C4B1248149}</ProjectGuid>
+    <ProjectGuid>{7C11BB2F-B8C5-4D8C-8133-D4E16AD834E8}</ProjectGuid>
     <RootNamespace>DjikstrasVehicleAllocation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -118,20 +118,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Compare.h" />
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Edge.h" />
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Graph.h" />
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Node.h" />
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Request.h" />
-    <ClInclude Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Vehicle.h" />
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Edge.cpp" />
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Graph.cpp" />
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Node.cpp" />
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Request.cpp" />
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Source.cpp" />
+    <ClCompile Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Vehicle.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Edge.cpp" />
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Graph.cpp" />
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Node.cpp" />
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Request.cpp" />
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Source.cpp" />
-    <ClCompile Include="G:\Visual Studio Projects\C++\Djikstra%27s Emergency Vehicle Allocation\CS 404 Project (Updated)\CS 404 Project\Vehicle.cpp" />
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Compare.h" />
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Edge.h" />
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Graph.h" />
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Node.h" />
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Request.h" />
+    <ClInclude Include="..\..\Djikstra%27s Vehicle Allocation\Djikstra%27s Vehicle Allocation\Vehicle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
