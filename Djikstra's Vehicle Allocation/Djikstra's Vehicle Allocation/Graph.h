@@ -25,7 +25,7 @@ public:
 	~Graph();
 private:
 	int vertices;
-	vector<vector<Edge>> adjlist;
+	vector<vector<Edge>> adjList;
 	queue<Request> requests;
 	vector<vector<Vehicle>> vehicles;
 };

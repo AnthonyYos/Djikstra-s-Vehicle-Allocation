@@ -19,8 +19,7 @@ void main()
 	graph.addEdge(1, 6, 10);
 	graph.addEdge(4, 10, 7);
 	graph.addEdge(8, 10, 2);
-	//graph.addEdge(20, 5, 2);
-	graph.createRequests(5);
+	graph.createRequests(10);
 	while (graph.isQueueEmpty() != true)
 	{
 		Request request = graph.getRequest();

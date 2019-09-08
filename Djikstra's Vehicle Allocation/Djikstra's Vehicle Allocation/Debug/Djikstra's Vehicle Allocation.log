@@ -1,4 +1,4 @@
-﻿  Source.cpp
-c:\users\antho\desktop\emergency vehicle allocation\djikstra's vehicle allocation\djikstra's vehicle allocation\source.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-c:\users\antho\desktop\emergency vehicle allocation\djikstra's vehicle allocation\djikstra's vehicle allocation\source.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Djikstra's Vehicle Allocation.vcxproj -> C:\Users\antho\Desktop\Emergency Vehicle Allocation\Djikstra's Vehicle Allocation\Debug\Djikstra's Vehicle Allocation.exe
+﻿  Graph.cpp
+g:\visual studio projects\c++\emergency-vehicle-allocation\djikstra's vehicle allocation\djikstra's vehicle allocation\graph.cpp(66): warning C4018: '<': signed/unsigned mismatch
+g:\visual studio projects\c++\emergency-vehicle-allocation\djikstra's vehicle allocation\djikstra's vehicle allocation\graph.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  Djikstra's Vehicle Allocation.vcxproj -> G:\Visual Studio Projects\C++\Emergency-Vehicle-Allocation\Djikstra's Vehicle Allocation\Debug\Djikstra's Vehicle Allocation.exe
